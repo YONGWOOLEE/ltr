@@ -27,7 +27,7 @@ GPL V3.0
 
 
 # Copyright
-Copyright (c) 2017, brufen97
+Copyright (c) 2016-2017, eXperDB Development Team
 All rights reserved.
 
 
