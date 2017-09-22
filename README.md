@@ -15,7 +15,7 @@ This page is test for github...
 
 
 ## License
-GPL V3.0
+ltr/LICENSE
 
 
 ## Installation
