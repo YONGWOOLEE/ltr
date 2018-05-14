@@ -5,7 +5,7 @@ This page is test for github...
 
 ![eXperDB-Management Dashboard](./ltr_ttt/Images2/ManagementMain.PNG)
 
-![eXperDB-Management Dashboard](./ltr_ttt/Images2/Management_Main.PNG)
+![eXperDB-Management Dashboard](./ltr_ttt/Images2/Management Main.PNG)
 
 ## Features
 * readme test
