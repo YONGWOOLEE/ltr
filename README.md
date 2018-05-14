@@ -1,7 +1,7 @@
 ## Introduction
 This page is test for github... 
 
-![2. Management Main.PNG](.ltr_ttt/Images2/2. Management Main.PNG)
+![eXperDB-Management](./ltr_ttt/Images2/2. Management Main.PNG)
 
 
 ## Features
