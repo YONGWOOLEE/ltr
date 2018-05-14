@@ -1,8 +1,8 @@
 ## Introduction
 This page is test for github... 
 
-![eXperDB-Management Dashboard](.ltr_ttt/Images2/2. Management Main.PNG)
-
+![eXperDB-Management Dashboard](./ltr_ttt/Images2/2. Management Main.PNG)
+![eXperDB-Management Dashboard](./ltr_ttt/Images2/ManagementMain.PNG)
 
 ## Features
 * readme test
