@@ -1,7 +1,7 @@
 ## Introduction
 This page is test for github... 
 
-![eXperDB-Management](./ltr_ttt/Images2/2. Management Main.PNG)
+![eXperDB-Management Dashboard](/YONGWOOLEE/ltr_ttt/Images2/2. Management Main.PNG)
 
 
 ## Features
