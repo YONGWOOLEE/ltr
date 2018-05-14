@@ -1,7 +1,7 @@
 ## Introduction
 This page is test for github... 
 
-![](./Images2/ManagementMain.PNG "Dashboard")
+![](./Images2/ManagementMain.PNG "eXperDB-Management Dashboard")
 
 ## Features
 * readme test
