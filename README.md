@@ -26,6 +26,8 @@ ltr/LICENSE
 2. Configuration
 - click the EDIT Button..
 
+### Appendix 1. eXperDB-Transfer Installation and Configuration
+
 
 ## Copyright
 Copyright (c) 2016-2017, eXperDB Development Team
