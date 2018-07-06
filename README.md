@@ -16,7 +16,7 @@ This page is test for github...
 
 
 ## License
-ltr/LICENSE
+[![LICENSE](https://img.shields.io/bugzilla/996038.svg)]
 
 
 ## Installation
