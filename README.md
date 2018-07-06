@@ -16,7 +16,7 @@ This page is test for github...
 
 
 ## License
-[![LICENSE](https://img.shields.io/bugzilla/996038.svg)]
+[![LICENSE](https://img.shields.io/bugzilla/996038.svg)](https://github.com/experdb/eXperDB-Management/blob/master/LICENSE)
 
 
 ## Installation
