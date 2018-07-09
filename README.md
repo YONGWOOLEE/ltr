@@ -1,7 +1,7 @@
 ## Introduction
 This page is test for github... 
 
-![](./Images/DB2PG Architecture.png "eXperDB-Management Dashboard")
+![](./Images/DB2PG_Architecture.png "eXperDB-Management Dashboard")
 
 ## Features
 * readme test
