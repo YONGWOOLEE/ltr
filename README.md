@@ -1,5 +1,6 @@
 ### Examples(On Linux)
 |Action|E.g. use|
+|-|-|
 |Help|./db2pg.sh|
 |Execute|./db2pg.sh -c db2pg.config|
 |Create Import Log file|psql -U _user_name_ -d _database_name_ -p _port_ -h _host_ -f _filename.sql_ > import.log|
