@@ -24,7 +24,6 @@
   
 
 Configuration file load for executing DB2PG command.
-
 _(In the current version(1.1.2), the environment setting is not input as a parameter)_
 
 ## Introduction
