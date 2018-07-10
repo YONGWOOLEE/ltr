@@ -7,6 +7,12 @@
 |--unload-summary `<arg>`|Summarize the logs loaded on the target using the Import.sql script generated from the Source Database|X|Create a file using '>' or '>>'|
   
 
+### Examples(On Linux)
+Help ./db2pg.sh
+----------------
+
+
+
 
 ## Introduction
 This page is test for github... 
