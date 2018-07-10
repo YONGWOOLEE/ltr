@@ -3,7 +3,7 @@
 |-|-|
 |Help|./db2pg.sh|
 |Execute|./db2pg.sh -c db2pg.config|
-|Create Import Log file|psql -U _user_name_ -d _database_name_ -p _port_ -h _host_ -f _filename.sql_ > import.log|
+|Create Import Log file|psql -U db2pg -d db2pg -p 5432 -h 127.0.0.1 -f import.sql  > import.log|
 |Import Log Summary|./db2pg.sh --unload-summary ./db2pg-result/import.log|
 |Create Rebuild log file|psql -U db2pg -d db2pg -p 5432 -h 127.0.0.1 -f fk_drop.sql > rebuild.log|
 ||psql -U db2pg -d db2pg -p 5432 -h 127.0.0.1 -f idx_drop.sql >> rebuild.log|
