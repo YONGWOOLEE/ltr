@@ -7,8 +7,6 @@
 |Import Log Summary|./db2pg.sh --unload-summary ./db2pg-result/import.log                                        |
 |Create Rebuild log file|psql -U db2pg -d db2pg -p 5432 -h 127.0.0.1 -f fk_drop.sql > rebuild.log|
 ||psql -U db2pg -d db2pg -p 5432 -h 127.0.0.1 -f idx_drop.sql >> rebuild.log|
-
----
 ||psql -U db2pg -d db2pg -p 5432 -h 127.0.0.1 -f idx_create.sql >> rebuild.log|
 ||psql -U db2pg -d db2pg -p 5432 -h 127.0.0.1 -f fk_create.sql >> rebuild.log|
 |Rebuild Log Summary|bash db2pg.sh --rebuild-summary ./db2pg-result/rebuild/rebuild.log|
