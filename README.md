@@ -15,6 +15,9 @@ This page is test for github...
 * and so on...
 
 
+
+
+
 ## License
 [![LICENSE](https://img.shields.io/bugzilla/996038.svg)](https://github.com/experdb/eXperDB-Management/blob/master/LICENSE)
 
@@ -37,4 +40,13 @@ All rights reserved.
 ## Community
 * https://www.facebook.com/experdb
 * http://www.k4m.com
+
+
+
+## Options
+|=.*항목*|=.*상세*|=.*필수*|=.*비고*|
+|-c, --config <arg>|eXperDB-DB2PG 명령 수행을 위한 설정 파일 로드|=.O|현재 버전에서는 매개변수로 환경설정을 입력받지 않고 있다.|
+
+
+
 
