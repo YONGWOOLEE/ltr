@@ -1,3 +1,10 @@
+## Options
+항목|상세|필수여부|비고
+----|----|----|----
+-c, --config <arg> | DB2PG 명령 수행을 위한 설정 파일 Load | O | 현재 버전에서는 매개변수로 환경 설정을 입력받지 않고 있다.
+  
+
+
 ## Introduction
 This page is test for github... 
 
@@ -43,11 +50,7 @@ All rights reserved.
 
 
 
-## Options
-항목|상세|필수여부|비고
-----------------------
--c, --config <arg> | DB2PG 명령 수행을 위한 설정 파일 Load | O | 현재 버전에서는 매개변수로 환경 설정을 입력받지 않고 있다.
-  
+
 
 
 
