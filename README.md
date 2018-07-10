@@ -23,10 +23,6 @@
 |--unload-summary `<arg>`|Summarize the logs loaded on the target using the Import.sql script generated from the Source Database. _(Create a file using '>' or '>>')_|N|
   
 
--c, --config '<arg>'
-
-
-
 ## Introduction
 This page is test for github... 
 
