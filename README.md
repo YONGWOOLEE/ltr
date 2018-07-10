@@ -2,7 +2,7 @@
 |Option|Description|Mandatory Status|Comment|
 |----------|--------|:----:|----|
 |-c, --config `<arg>`|Configuration file load for executing DB2PG command|O|In the current version(1.1.2), the environment setting is not input as a parameter.|
-|-M, --make-templates|Create a configuration file to run the DB2PG command|X|-|
+|-M, --make-templates|Create a configuration file to run the DB2PG command|X|<center>-|
 |--rebuild-summary `<arg>`|Summarizes constraint execution logs such as PK, FK, INDEX created and deleted in Target Database|X|Create a file using '>' or '>>'|
 |--unload-summary `<arg>`|Summarize the logs loaded on the target using the Import.sql script generated from the Source Database|X|Create a file using '>' or '>>'|
   
